@@ -1,0 +1,19 @@
+﻿  main.cpp
+e:\vs projects\cube\cube\main.cpp(31): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+e:\vs projects\cube\cube\main.cpp(32): warning C4305: '+=': truncation from 'double' to 'float'
+e:\vs projects\cube\cube\main.cpp(37): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+e:\vs projects\cube\cube\main.cpp(38): warning C4305: '-=': truncation from 'double' to 'float'
+e:\vs projects\cube\cube\main.cpp(43): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+e:\vs projects\cube\cube\main.cpp(44): warning C4305: '+=': truncation from 'double' to 'float'
+e:\vs projects\cube\cube\main.cpp(49): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+e:\vs projects\cube\cube\main.cpp(50): warning C4305: '-=': truncation from 'double' to 'float'
+e:\vs projects\cube\cube\main.cpp(57): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+e:\vs projects\cube\cube\main.cpp(61): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+e:\vs projects\cube\cube\main.cpp(67): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+e:\vs projects\cube\cube\main.cpp(68): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+e:\vs projects\cube\cube\main.cpp(75): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+e:\vs projects\cube\cube\main.cpp(76): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+e:\vs projects\cube\cube\main.cpp(106): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+e:\vs projects\cube\cube\main.cpp(112): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+  cube.vcxproj -> E:\VS projects\cube\Debug\cube.exe
+  cube.vcxproj -> E:\VS projects\cube\Debug\cube.pdb (Partial PDB)
